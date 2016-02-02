@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>sling-models Package</comment>
+<entry key="createdBy">shivani</entry>
+<entry key="name">sling-models-content</entry>
+<entry key="created">2016-02-02T12:47:22.939+0530</entry>
+<entry key="groupId">group-id-sling</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AemProject</entry>
+<entry key="description">Maven Multimodule project for sling-models.</entry>
+<entry key="artifactId">sling-models-content</entry>
+<entry key="path">/etc/packages/AemProject/sling-models-content.zip</entry>
+</properties>

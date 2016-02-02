@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1454397442500
+Bnd-LastModified: 1454400891073
 Build-Jdk: 1.8.0_66
 Built-By: shivani
 Bundle-Description: Maven Multimodule project for sling-models.
